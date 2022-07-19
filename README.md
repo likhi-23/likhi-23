@@ -29,11 +29,13 @@
     <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?&style=for-the-badge&color=115B9A&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Django%20-%23F7DF1E.svg?&style=for-the-badge&color=0F4B13&logo=django&logoColor=white" />
-    
     <img src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=A259FF&logo=figma&logoColor=white" />
-    
     <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=abf&logo=git&logoColor=black" />
     <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=8D6748&logo=java&logoColor=white" />
     
-</p>
+    </p>
+    
+    
+    
+
