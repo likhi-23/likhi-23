@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/Likhith karri/">
+<a href="https://www.linkedin.com/in/likhith-karri-3a6943238/">
     <img src="https://img.shields.io/badge/-LinkedIn-ffffa0?style=for-the-badge&logo=linkedin&logoColor=0C61BF" />
 </a>
               
